@@ -1,1 +1,1 @@
-org.lsposed.hiddenapibypass,LSPAppComponentFactoryStub.smali,LSPAppComponentFactoryStub.java,Bootstrap loader from embedment,declaringClass,org.lsposed.hiddenapibypass,Lorg/lsposed/hiddenapibypass/a,Lorg/lsposed/lspatch/metaloader/LSPAppComponentFactoryStub
+org.lsposed.hiddenapibypass.a
